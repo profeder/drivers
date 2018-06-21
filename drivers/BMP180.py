@@ -2,6 +2,8 @@
 # -*- coding: utf-8 -*-
 # -*- coding: utf-8 -*-
 
+#sensore Barometrico/temperatura
+
 from I2CDevice import I2CDevice
 from ctypes import c_short
 from ctypes import c_ushort
